@@ -42,7 +42,7 @@ Make sure you have **Python 3.10+** installed.
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-link>
+   git clone https://github.com/saisuhas12/VWO-Debug-Challenge
    cd financial-document-analyzer-debug
    ```
 
